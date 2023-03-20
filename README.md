@@ -1,7 +1,3 @@
-![Snake animation](https://github.com/ilahiamaan606/ilahiamaan606/blob/output/github-contribution-grid-snake.svg)
-### Hi there 👋
-
-
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 
 <h1 align="center">Hi There , I'm Amaan Ilahi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
