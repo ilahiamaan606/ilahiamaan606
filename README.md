@@ -47,3 +47,5 @@
 ### ⚡ This line make me always craving
 
 <h1>while(!(succeed = try() ) );</h1>
+
+![Snake animation](https://github.com/ilahiamaan606/ilahiamaan606/blob/output/github-contribution-grid-snake.svg)
