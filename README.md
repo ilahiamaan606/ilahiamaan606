@@ -37,15 +37,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ilahiamaan606&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilahiamaan606&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### ✍️ SHOUT with your code
-
-<img align="left" alt="Git" width="350px" style="padding-right:10px;" src="https://quotefancy.com/media/wallpaper/3840x2160/1700728-Linus-Torvalds-Quote-Talk-is-cheap-Show-me-the-code.jpg" />
-
-<br/>
-
-### ⚡ This line make me always craving
-
-<h1>while(!(succeed = try() ) );</h1>
-
 ![Snake animation](https://github.com/ilahiamaan606/ilahiamaan606/blob/output/github-contribution-grid-snake.svg)
